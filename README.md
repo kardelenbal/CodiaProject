@@ -1,2 +1,0 @@
-# CodiaProject
-CODIA C++ Çözümleri
